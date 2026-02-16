@@ -90,6 +90,7 @@ MIT License (LICENSE 파일로 제공)
 
 ## 🤝 기여
 이슈 및 개선 제안은 [Issues](https://github.com/reuno721/PdfPreviewFixer/issues) 탭에서 받습니다.
+- ☕ 커피 한 잔으로 응원하기(선택) https://buymeacoffee.com/reuno_studio
 
 <br>
 
